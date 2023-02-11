@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
 
-import 'open_pdf copy.dart';
+import 'open_pdf_util.dart';
 import 'open_pdf.dart';
 
 class AllNews extends StatefulWidget {
